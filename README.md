@@ -4,5 +4,7 @@ Adding convenience for wathever fustrates me in gregtech ceu early game by addin
 # Features:
 
 -new ways to make steel before EBF
+
 -recipe for damacus steel(needs a new material first)
+
 -other stuff...
