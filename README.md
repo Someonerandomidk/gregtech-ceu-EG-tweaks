@@ -9,4 +9,5 @@ Adding convenience for wathever fustrates me in gregtech ceu early game by addin
 
 -other stuff...
 ## TODO
--Learn how to localize gtceu materials(will be thankful if anyone tells me how to do so
+-Learn how to localize gtceu materials(will be thankful if anyone tells me how to do so)
+
