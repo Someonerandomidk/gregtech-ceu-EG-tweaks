@@ -5,7 +5,7 @@ Adding convenience for wathever fustrates me in gregtech ceu early game by addin
 
 -new types of coke, allowing for faster steel making in the PBF
 
--recipe for damacus steel(needs a new material first)
+-recipe for dasmacus steel(needs a new material first)
 
 -New ways to make materials required for LV motors, pistons, conveyors, robot arms, emitters, etc...
 
