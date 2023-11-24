@@ -7,6 +7,8 @@ Adding convenience for wathever fustrates me in gregtech ceu early game by addin
 
 -recipe for damacus steel(needs a new material first)
 
+-New ways to make materials required for LV motors, pistons, conveyors, robot arms, emitters, etc...
+
 -other stuff...
 ## TODO
 -Learn how to localize gtceu materials(will be thankful if anyone tells me how to do so)
