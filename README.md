@@ -1,15 +1,18 @@
 ## Description still W.I.P
 # gregtech-ceu-EG-tweaks
-Adding convenience for wathever fustrates me in gregtech ceu early game by adding items, recipes, and other stuff, all balanced, in my own way
+Adding convenience for wathever fustrates me in gregtech ceu early game by adding items, recipes, and other stuff, all balanced, in my own way.
 # Features:
 
--new types of coke, allowing for faster steel making in the PBF
+-new type of coke, allowing for faster steel making in the PBF(tho its expensive...)
 
 -recipe for dasmacus steel(needs a new material first)
 
--New ways to make materials required for LV motors, pistons, conveyors, robot arms, emitters, etc...
+-New ways to make LV motors, pistons, conveyors, robot arms, emitters, etc... with a new alloy
 
--other stuff...
-## TODO
--Learn how to localize gtceu materials(will be thankful if anyone tells me how to do so)
+-New way to make primitive LV circuit with a new alloy
 
+Only tested with GTCEu 2.7.4, but lower versions should work just fine
+
+Installation instructions on the "installationinstructions" file
+
+Hope you enjoy this =)!
