@@ -16,3 +16,5 @@ Only tested with GTCEu 2.7.4, but lower versions should work just fine
 Installation instructions on the "installationinstructions" file
 
 Hope you enjoy this =)!
+
+I accept feedback
