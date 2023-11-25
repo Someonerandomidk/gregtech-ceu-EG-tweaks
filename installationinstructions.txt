@@ -1,0 +1,16 @@
+-- INSTALLATION INSTRUCTIONS --
+1.-Make sure you have Crafttweaker, Groovyscript, and Gregtech CEu installed(make sure that ALL are the 1.12.2 file)(you can add any other mods you want too!)
+Crafttweaker:https://www.curseforge.com/minecraft/mc-mods/crafttweaker
+Groovyscript:https://www.curseforge.com/minecraft/mc-mods/groovyscript
+Gregtech CEu:https://www.curseforge.com/minecraft/mc-mods/gregtech-ce-unofficial
+2.-Run the game 1 time so it generates the necessary files
+3.-copy all the files that end with ZS(or just everything that is not the "lang" folder if you dont see any ZS at the end), go to the folder where your minecraft is stored OR .minecraft and paste them on the "scripts" folder
+4.-Copy the "lang" folder and go to .minecraft or where your minecraft is located, then go to groovy/assets/placeholdername/lang and paste it inside the "lang" folder, basically replace the auto-generated "en-us" file
+5.-Run minecraft
+6.-Enjoy!
+
+Keep in mind that english is not my main language so there may be some spelling mistakes!
+
+Hope you enjoy the tweaks!
+
+-idksomeone (aka Someonerandomidk)
