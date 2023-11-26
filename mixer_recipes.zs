@@ -11,7 +11,7 @@ mixin.recipeBuilder()
 	.buildAndRegister();
 	
 mixin.recipeBuilder()
-	.inputs([<metaitem:dustCopper> * 4, <metaitem:dustSteel> * 3, <metaitem:dustRubber> * 1, <metaitem:dustRedAlloy> * 1])
+	.inputs([<metaitem:dustCopper> * 3, <metaitem:dustSteel> * 1, <metaitem:dustRubber> * 1, <metaitem:dustRedAlloy> * 2])
 	.outputs(<metaitem:dustPrimitiveCircuitAlloy> * 4)
 	.duration(200)
 	.EUt(22)
