@@ -5,8 +5,8 @@ var alloy as RecipeMap = <recipemap:alloy_smelter>;
 
 alloy.recipeBuilder()
 	.inputs([
-		<metaitem:ingotHighCoalSteel> * 2,
-		<metaitem:ingotSteel> * 2
+		<metaitem:dustVanadiumMagnetite> * 3,
+		<ore:oreTungstate> * 2
 	])
 	.outputs([<metaitem:ingotDamascusSteel>])
 	.duration(300)
