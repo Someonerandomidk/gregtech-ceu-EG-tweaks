@@ -57,8 +57,8 @@ recipes.addShaped("auto_gen_309783490", <gregtech:meta_item_1:217>,
 [<gregtech:wire_hex:32003>, <gregtech:meta_stick:259>, <gregtech:wire_double:32003>]]);
 recipes.addShaped("auto_gen_592941937", <gregtech:meta_dust:32004>*3, 
 [[<gregtech:meta_dust:25>, <gregtech:meta_dust:25>, <gregtech:meta_dust:25>],
-[<gregtech:meta_dust:25>, <gregtech:meta_dust:324>, <gregtech:meta_dust:324>],
-[<gregtech:meta_dust:324>, <gregtech:meta_dust:1068>, <gregtech:meta_dust:2517>]]);
+[<gregtech:meta_dust:25>, <gregtech:meta_dust:1068>, <gregtech:meta_dust:1068>],
+[<gregtech:meta_dust:324>, <gregtech:meta_dust:2517>, <gregtech:meta_dust:2517>]]);
 recipes.addShaped("auto_gen_-2005340916", <gregtech:meta_item_1:621>, 
 [[<gregtech:wire_double:32004>, <gregtech:meta_plate:32004>, <gregtech:wire_double:32004>],
 [<gregtech:wire_single:32004>, <gregtech:wire_octal:32004>, <gregtech:wire_single:32004>],
